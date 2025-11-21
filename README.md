@@ -60,6 +60,16 @@ TODO: Write 3–4 short points about yourself.
 ### Badges & activity
 
 <div align="center">
+  
+  <!--
+  TODO:
+  - Go to https://holopin.io, sign in, and get your own badge link if you want.
+  - Replace `rahul1310200611-tech` with YOUR Holopin username.
+  - Or delete this block if you don't use Holopin.
+  -->
+  <a href="https://holopin.io/@rahul1310200611-tech">
+    <img src="https://holopin.me/rahul1310200611-tech" alt="Holopin badges">
+  </a>
 
   <br><br>
 
